@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+The React app needs two folders
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. The **client** folder will have file from the **master bracch** 
+2. The **server** folder will have files from BlogPostApp-MERNStack/Downloads/BlogPostApp-MernStack/React Assignment/React-Blog/server/ in the **main branch**
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs all the necessary node modules.\
+
+You will also see any lint errors in the console.
 
 ### `npm start`
 
